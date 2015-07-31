@@ -96,3 +96,12 @@ font-weight: 400;
 	animation-delay:0s;
 	-webkit-animation-delay:0s; /* Safari 和 Chrome */
 }
+#work-sec{
+    min-height:100vh;
+    color: white;
+    background-image: url('../images/landing-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50vh;
+    background-position:center;
+}
