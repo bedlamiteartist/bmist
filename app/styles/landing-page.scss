@@ -1,4 +1,22 @@
+@font-face {
+    font-family: early-bird;
+    src: url('fonts/Early_Bird.otf');
+}
 #lndg-pg{
-    height: 1200px;
+    height: 100vh;
     background-image: url('../images/landing-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+#head-lpg{
+    color: white;
+    font-family: early-bird;
+    font-size: 5em;
+    letter-spacing: 16pt;
+    padding-top: 58vh;
+    margin-right: 0px;
+}
+#sheemar{
+    letter-spacing: 23pt;
 }
