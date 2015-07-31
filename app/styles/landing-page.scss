@@ -4,19 +4,38 @@
 }
 #lndg-pg{
     height: 100vh;
+    color: white;
     background-image: url('../images/landing-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 50vh;
     background-position:center;
 }
 #head-lpg{
-    color: white;
+    text-align: center;
     font-family: early-bird;
     font-size: 5em;
     letter-spacing: 16pt;
-    padding-top: 58vh;
-    margin-right: 0px;
+    margin-left: 1.15%;
 }
 #sheemar{
     letter-spacing: 23pt;
+}
+#title-footer-1{
+    text-transform: uppercase;
+    letter-spacing: .9pt;
+    text-align: center;
+    font-family: "raleway",sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+#title-footer-2{
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1pt;
+    font-family: "raleway",sans-serif;
+font-style: normal;
+font-weight: 400;
+    font-size: 8pt;
+    padding-top: 1.12%;
 }
